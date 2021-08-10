@@ -1,0 +1,12 @@
+.children {
+	width: 100%;
+
+	&.--centered {
+		display: flex;
+		justify-content: center;
+	}
+
+	// &__title {
+	// 	font-size: 1.5rem;
+	// }
+}
